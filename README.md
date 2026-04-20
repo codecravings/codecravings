@@ -37,10 +37,6 @@ LLMs of the month: `Gemma` · `DeepSeek` · `Groq` · `Claude`
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=transparent&hide_border=true&title_color=B429F9&icon_color=00F5FF&text_color=888888&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&cache_seconds=1800" />
-
-</div>
 
 <p align="center"><sub><i>still learning, still shipping</i></sub></p>
