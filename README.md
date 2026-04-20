@@ -1,45 +1,122 @@
-<h1 align="center">Om Gholwe</h1>
-<p align="center"><i>💡 Dropping random brilliance in code form. Building things that feel like magic.</i></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:B429F9,100:00FF88&height=220&section=header&text=Om%20Gholwe&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dropping%20random%20brilliance%20in%20code%20form&descSize=18&descAlignY=58" width="100%" />
+
+<a href="https://github.com/codecravings">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=620&lines=Flutter+%26+Dart+Engineer;On-device+AI+Builder;LLM+Orchestration+Specialist;Multi-agent+Architectures;Building+things+that+feel+like+magic" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=codecravings&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/codecravings?style=for-the-badge&color=B429F9&labelColor=0A0E21&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/codecravings?style=for-the-badge&color=00FF88&labelColor=0A0E21&label=TOTAL+STARS" />
+
+</div>
+
+---
+
+### 🧠 About Me
+
+```yaml
+name: Om Gholwe
+role: AI-first Flutter Engineer
+currently_building:
+  - on-device multi-agent AI tutors
+  - self-improving coding agents
+  - ruthless attention tools
+stack_of_choice:
+  mobile:   [Flutter, Dart]
+  ai:       [Gemma, DeepSeek, Groq, Gemini, Claude]
+  web:      [TypeScript, Vue, Next.js]
+  backend:  [Firebase, Node, Python]
+philosophy: Make magic. Ship fast. Fix bugs.
+```
+
+---
+
+### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,javascript,python,go,firebase,vue,nodejs,tailwind,git,linux,vscode,androidstudio&theme=dark&perline=14" />
 </p>
 
 ---
 
-### Featured work
+### 🚀 Featured Work
 
-| | Project | What it does |
-|---|---|---|
-| 🎓 | **[learnify-offline](https://github.com/codecravings/learnify-offline)** | On-device Gemma 4 E4B learning app. Zero cloud, multi-agent tutoring, persistent memory. |
-| 🧘 | **[monk-mode](https://github.com/codecravings/monk-mode)** | Ruthless attention guardian. Locks distracting apps behind a brutal friction gauntlet. |
-| 🤖 | **[omgenesis](https://github.com/codecravings/omgenesis)** | Self-improving AI coding agent. DeepSeek-powered, multi-provider, learns across sessions. |
-| 🎮 | **[game-builder](https://github.com/codecravings/game-builder)** | AI game engine. Making games should be as easy as ordering pizza. |
-| 🩺 | **[ArogyaMitra](https://github.com/codecravings/ArogyaMitra)** | AI health companion — symptom analysis, medicine tracking, community remedies. |
-| 💻 | **[feetcode](https://github.com/codecravings/feetcode)** | LeetCode clone with switchable personalities — Professional, Humorous, Gen Z. |
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/learnify-offline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=learnify-offline&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/monk-mode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=monk-mode&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/omgenesis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=omgenesis&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/game-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=game-builder&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/ArogyaMitra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=ArogyaMitra&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/codecravings/feetcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=feetcode&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-### What I work on
+### 📊 GitHub Stats
 
-**On-device AI** · **LLM orchestration** · **Flutter UI engineering** · **Persistent AI memory systems** · **Multi-agent architectures**
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=codecravings&theme=tokyonight&hide_border=true&background=0A0E21&ring=00F5FF&fire=B429F9&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=ffffff" />
+</div>
 
-Stack I reach for: Flutter / Dart for mobile, TypeScript and Python for everything else, Firebase for backend, and a rotating roster of LLMs (Gemma, DeepSeek, Groq, Gemini, Claude) depending on what the job needs.
-
----
-
-### Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecravings&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecravings&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&text_color=ffffff&langs_count=10" />
+</div>
 
 ---
 
-<p align="center"><i>Follow for bugs, fixes, and digital magic.</i> 🧙‍♂️</p>
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codecravings&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecravings&theme=tokyo-night&hide_border=true&bg_color=0A0E21&color=00F5FF&line=00F5FF&point=B429F9&area=true&area_color=00F5FF" width="98%" />
+</div>
+
+---
+
+<div align="center">
+  <i>Follow for bugs, fixes, and digital magic.</i> 🧙‍♂️
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:B429F9,100:00F5FF&height=120&section=footer" width="100%" />
