@@ -27,18 +27,7 @@
 ### ⟡ &nbsp; Currently in the lab
 
 <table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/learnify-offline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=learnify-offline&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=1800" />
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/omgenesis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=omgenesis&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=1800" />
-</a>
-</td>
-</tr>
+
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/codecravings/monk-mode">
