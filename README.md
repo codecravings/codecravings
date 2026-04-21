@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:B429F9,100:00FF88&height=180&section=header&text=Om%20Gholwe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20on-device%20AI%20that%20feels%20like%20magic&descSize=16&descAlignY=62" width="100%" />
 
 <a href="https://github.com/codecravings">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=640&lines=Offline-first+AI+Alchemist;Shipping+silicon+that+thinks+on+its+own;94+repos+and+still+caffeinated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=640&lines=Offline-first+AI+Alchemist;Shipping+silicon+that+thinks+on+its+own;95+repos+and+still+caffeinated" alt="Typing SVG" />
 </a>
 
 <br/><br/>
