@@ -37,32 +37,20 @@ $ whoami --no-filter
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/learnify-offline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=learnify-offline&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&show_owner=false&cache_seconds=21600" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/omgenesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=omgenesis&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/monk-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=monk-mode&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/codecravings/game-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=game-builder&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
-</td>
-</tr>
-</table>
+|     | repo | what it does |
+| :-: | :--- | :--- |
+| 🧠 | [**learnify-offline**](https://github.com/codecravings/learnify-offline) | fully on-device multi-agent AI learning app · powered by **Gemma 4 E2B** · Kaggle hackathon submission |
+| 🤖 | [**omgenesis**](https://github.com/codecravings/omgenesis) | self-improving AI coding agent · DeepSeek-powered · learns across sessions |
+| 🧘 | [**monk-mode**](https://github.com/codecravings/monk-mode) | replaces your home screen, drags distractions through a 4-step friction gauntlet · *not a blocker, a mirror* |
+| 🎮 | [**game-builder**](https://github.com/codecravings/game-builder) | AI game engine · because making games should be as easy as ordering pizza 🍕 |
+| 🩺 | [**ArogyaMitra**](https://github.com/codecravings/ArogyaMitra) | AI health companion · symptom analysis · medicine tracker · community remedies |
+| 🦶 | [**feetcode**](https://github.com/codecravings/feetcode) | leetcode but with personalities — *professional · humorous · gen-z mode* |
 
 <p align="center">
 <sub>also frying →
-<a href="https://github.com/codecravings/ArogyaMitra"><b>ArogyaMitra</b></a> ·
-<a href="https://github.com/codecravings/feetcode"><b>feetcode</b></a> ·
 <a href="https://github.com/codecravings/website-builder"><b>website-builder</b></a> ·
 <a href="https://github.com/codecravings/ClickClackArch"><b>ClickClackArch</b></a> ·
-<a href="https://github.com/codecravings?tab=repositories">[ 93 more →]</a></sub>
+<a href="https://github.com/codecravings?tab=repositories">[ 91 more →]</a></sub>
 </p>
 
 <br/>
@@ -72,6 +60,13 @@ $ whoami --no-filter
 ### ⟡ &nbsp; ./stack
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,typescript,go,nextjs,nodejs,vue,tailwind,firebase,pytorch,tensorflow,linux,git&theme=dark&perline=14" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-on--device_AI-00F5FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter_main-B429F9?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/-LLM_glue-00FF88?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/-quantization-FF6B9D?style=for-the-badge&logoColor=white" />
 
 <sub>llms on rotation → <b>gemma</b> · <b>qwen</b> · <b>deepseek</b> · <b>groq</b> · <b>gemini</b> · <b>claude</b></sub>
 
@@ -83,12 +78,13 @@ $ whoami --no-filter
 
 ### ⟡ &nbsp; ./signal
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&text_color=ffffff&count_private=true&include_all_commits=true&hide=issues&cache_seconds=21600" />
-<img height="170" src="https://streak-stats.demolab.com?user=codecravings&theme=tokyonight&hide_border=true&background=0A0E21&stroke=00F5FF&ring=B429F9&fire=00FF88&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com?user=codecravings&theme=tokyonight&hide_border=true&background=0A0E21&stroke=00F5FF&ring=B429F9&fire=00FF88&currStreakLabel=00F5FF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecravings&theme=tokyo-night&hide_border=true&bg_color=0A0E21&color=00F5FF&line=00F5FF&point=B429F9&area=true&area_color=00F5FF&custom_title=last+year+of+chaos" width="98%" />
+<img src="https://img.shields.io/github/last-commit/codecravings/codecravings?style=for-the-badge&color=00F5FF&label=last%20push&labelColor=0A0E21" />
+<img src="https://img.shields.io/github/created-at/codecravings/codecravings?style=for-the-badge&color=B429F9&label=been%20here%20since&labelColor=0A0E21" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00FF88&label=public%20repos&labelColor=0A0E21&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcodecravings" />
 
 </div>
 
