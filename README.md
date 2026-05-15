@@ -17,12 +17,17 @@
 <br/>
 
 ```bash
-$ whoami
-> om — builds on-device AI, hates loading spinners
-> location:    india, probably awake
-> currently:   teaching phones to think offline
-> open to:     edge-ML / mobile / AI roles · cold DMs welcome
-> fuel:        caffeine + spite
+$ whoami --no-filter
+
+> om gholwe 💀 — chronic shipper, recovering perfectionist
+> 📍 india · 🌙 timezone: chronically online
+> 💼 stack: flutter + python + sheer audacity
+> 🎯 mission: bullying small LLMs into running on potato phones 🥔
+> 🧪 currently: making your phone smarter so the cloud stops snitching ☁️🚫
+> 📊 99 repos · ~7 actually slap · rest is "character development" 📈
+> ☕ powered by: chai, deadlines, and the fear of being mid
+> 💌 dms open for: AI / mobile / edge-ML roles (and meme recs)
+> ⚠️  side effects: may ship at 3am, refuses to use light mode
 ```
 
 <br/>
@@ -36,18 +41,18 @@ $ whoami
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/codecravings/learnify-offline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=learnify-offline&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&show_owner=false&cache_seconds=3600" /></a>
+<a href="https://github.com/codecravings/learnify-offline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=learnify-offline&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&show_owner=false&cache_seconds=21600" /></a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/codecravings/omgenesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=omgenesis&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=1800" /></a>
+<a href="https://github.com/codecravings/omgenesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=omgenesis&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/codecravings/monk-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=monk-mode&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=1800" /></a>
+<a href="https://github.com/codecravings/monk-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=monk-mode&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/codecravings/game-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=game-builder&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=1800" /></a>
+<a href="https://github.com/codecravings/game-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codecravings&repo=game-builder&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&cache_seconds=21600" /></a>
 </td>
 </tr>
 </table>
@@ -79,7 +84,7 @@ $ whoami
 
 ### ⟡ &nbsp; ./signal
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&text_color=ffffff&count_private=true&include_all_commits=true&hide=issues&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&text_color=ffffff&count_private=true&include_all_commits=true&hide=issues&cache_seconds=21600" />
 <img height="170" src="https://streak-stats.demolab.com?user=codecravings&theme=tokyonight&hide_border=true&background=0A0E21&stroke=00F5FF&ring=B429F9&fire=00FF88&currStreakLabel=00F5FF" />
 
 <br/><br/>
