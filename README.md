@@ -82,6 +82,10 @@ $ whoami --no-filter
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecravings&theme=tokyo-night&hide_border=true&bg_color=0A0E21&color=00F5FF&line=00F5FF&point=B429F9&area=true&area_color=00F5FF&custom_title=last+year+of+chaos" width="98%" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/github/last-commit/codecravings/codecravings?style=for-the-badge&color=00F5FF&label=last%20push&labelColor=0A0E21" />
 <img src="https://img.shields.io/github/created-at/codecravings/codecravings?style=for-the-badge&color=B429F9&label=been%20here%20since&labelColor=0A0E21" />
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00FF88&label=public%20repos&labelColor=0A0E21&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcodecravings" />
