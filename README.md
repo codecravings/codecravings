@@ -37,14 +37,14 @@ $ whoami --no-filter
 
 </div>
 
-|     | repo | what it does |
-| :-: | :--- | :--- |
-| 🧠 | [**learnify-offline**](https://github.com/codecravings/learnify-offline) | fully on-device multi-agent AI learning app · powered by **Gemma 4 E2B** · Kaggle hackathon submission |
-| 🤖 | [**omgenesis**](https://github.com/codecravings/omgenesis) | self-improving AI coding agent · DeepSeek-powered · learns across sessions |
-| 🧘 | [**monk-mode**](https://github.com/codecravings/monk-mode) | replaces your home screen, drags distractions through a 4-step friction gauntlet · *not a blocker, a mirror* |
-| 🎮 | [**game-builder**](https://github.com/codecravings/game-builder) | AI game engine · because making games should be as easy as ordering pizza 🍕 |
-| 🩺 | [**ArogyaMitra**](https://github.com/codecravings/ArogyaMitra) | AI health companion · symptom analysis · medicine tracker · community remedies |
-| 🦶 | [**feetcode**](https://github.com/codecravings/feetcode) | leetcode but with personalities — *professionals · humorous · gen-z mode* |
+|     | repo | what it does | why it slaps |
+| :-: | :--- | :--- | :--- |
+| 🧠 | [**learnify-offline**](https://github.com/codecravings/learnify-offline) | fully on-device multi-agent AI tutor · **Gemma 4 E2B** | zero internet, zero snitching · Kaggle hackathon submission |
+| 🤖 | [**omgenesis**](https://github.com/codecravings/omgenesis) | self-improving AI coding agent · DeepSeek-powered | *learns across sessions* — gets less dumb over time |
+| 🧘 | [**monk-mode**](https://github.com/codecravings/monk-mode) | home-screen replacement w/ a 4-step friction gauntlet | not a blocker, a mirror 🪞 |
+| 🎮 | [**game-builder**](https://github.com/codecravings/game-builder) | AI game engine | making games as easy as ordering pizza 🍕 |
+| 🩺 | [**ArogyaMitra**](https://github.com/codecravings/ArogyaMitra) | AI health companion · symptom analysis · meds tracker | community remedies, no waiting room |
+| 🦶 | [**feetcode**](https://github.com/codecravings/feetcode) | leetcode with personalities | *professional · humorous · gen-z* mode 💀 |
 
 <p align="center">
 <sub>also frying →
@@ -52,6 +52,26 @@ $ whoami --no-filter
 <a href="https://github.com/codecravings/ClickClackArch"><b>ClickClackArch</b></a> ·
 <a href="https://github.com/codecravings?tab=repositories">[ 91 more →]</a></sub>
 </p>
+
+<br/>
+
+<div align="center">
+
+### ⟡ &nbsp; ./the-bit — what i actually do
+
+</div>
+
+```
+┌─ on-device AI ─────────────────────────────────────────┐
+│  • quantize big models → cram onto $100 android phones  │
+│  • multi-agent orchestration that runs LOCAL            │
+│  • LLM glue: gemma · qwen · deepseek wired into mobile  │
+└─────────────────────────────────────────────────────────┘
+┌─ shipping ─────────────────────────────────────────────┐
+│  • flutter front-to-back · idea → store in days not mos │
+│  • prototype velocity > architecture astronautics       │
+└─────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
@@ -78,6 +98,11 @@ $ whoami --no-filter
 
 ### ⟡ &nbsp; ./signal
 
+<img src="https://github-readme-stats.vercel.app/api?username=codecravings&show_icons=true&hide_border=true&bg_color=0A0E21&title_color=00F5FF&icon_color=B429F9&text_color=ffffff&ring_color=00FF88" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecravings&layout=compact&hide_border=true&bg_color=0A0E21&title_color=00F5FF&text_color=ffffff&langs_count=8" height="170" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=codecravings&theme=tokyonight&hide_border=true&background=0A0E21&stroke=00F5FF&ring=B429F9&fire=00FF88&currStreakLabel=00F5FF" />
 
 <br/><br/>
@@ -96,9 +121,29 @@ $ whoami --no-filter
 
 <div align="center">
 
+### ⟡ &nbsp; ./war-stories
+
+</div>
+
+```diff
++ shipped a multi-agent LLM app that runs with airplane mode ON
++ got gemma running on a phone that struggles with whatsapp
+- deleted node_modules to "free space" the night before a demo
+- 3am commit msg: "it works i don't know why"
+! 99 repos and counting · regret is a feature not a bug
+```
+
+<br/>
+
+<div align="center">
+
 ### ⟡ &nbsp; ./manifesto
 
-`edge > cloud` &nbsp;·&nbsp; `ship > polish` &nbsp;·&nbsp; `vibes > specs`
+`edge > cloud` &nbsp;·&nbsp; `ship > polish` &nbsp;·&nbsp; `vibes > specs` &nbsp;·&nbsp; `local > latency`
+
+<br/><br/>
+
+<sub>dms open · <a href="https://github.com/codecravings">@codecravings</a> · let's build something that doesn't phone home 📵</sub>
 
 </div>
 
