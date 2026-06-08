@@ -44,7 +44,7 @@ $ whoami --no-filter
 | 🧘 | [**monk-mode**](https://github.com/codecravings/monk-mode) | replaces your home screen, drags distractions through a 4-step friction gauntlet · *not a blocker, a mirror* |
 | 🎮 | [**game-builder**](https://github.com/codecravings/game-builder) | AI game engine · because making games should be as easy as ordering pizza 🍕 |
 | 🩺 | [**ArogyaMitra**](https://github.com/codecravings/ArogyaMitra) | AI health companion · symptom analysis · medicine tracker · community remedies |
-| 🦶 | [**feetcode**](https://github.com/codecravings/feetcode) | leetcode but with personalities — *professional · humorous · gen-z mode* |
+| 🦶 | [**feetcode**](https://github.com/codecravings/feetcode) | leetcode but with personalities — *professionals · humorous · gen-z mode* |
 
 <p align="center">
 <sub>also frying →
