@@ -20,7 +20,8 @@
 $ whoami --no-filter
 
 > om gholwe 💀 — chronic shipper, recovering perfectionist
-> 📍 india · 🌙 timezone: chronically online
+> 📍 india | 🌙 IST (Insomnia Standard Time)
+> 🏆 5× hackathon winner | still loses arguments to semicolons 👀
 > 🎯 mission: bullying small LLMs into running on potato phones 🥔
 > 🧪 currently: making your phone smarter so the cloud stops snitching ☁️🚫
 > 📊 100+ repos · ~8 actually slap · rest is "character development" 📈
