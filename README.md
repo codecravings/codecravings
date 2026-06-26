@@ -25,6 +25,7 @@ $ whoami --no-filter
 > 🎯 mission: bullying small LLMs into running on potato phones 🥔
 > 🧪 currently: making your phone smarter so the cloud stops snitching ☁️🚫
 > 📊 100+ repos · ~8 actually slap · rest is "character development" 📈
+> 📦 open-source contributor | professional issue creator & closer
 > ☕ powered by: caffine and the fear of being mid
 > 💌 dms open for: AI / mobile / edge-ML roles (and meme recs)
 > ⚠️  side effects: may ship at 3am, refuses to use light mode
